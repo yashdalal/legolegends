@@ -1,0 +1,116 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+@font-face {
+    font-family: 'Tw Cen MT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Tw Cen MT'), url('../fonts/Tw Cen MT.woff') format('woff');
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Tw Cen MT";
+    font-size: 17px;
+    background-color: #EEEBD0;
+    
+}
+
+h2,
+h3,
+h6 {
+}
+
+.h1-font{
+    font-family: "Tw Cen MT";
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+
+.topnav {
+    font-size: 14px; 
+}
+
+.hr-custom{
+    border-top: 1px solid black;
+}
+.spacing{
+    line-height: 200%;
+}
+
+.a-link>a{
+    margin: 5px;
+    font-family: Garamond;
+    font-size: 22px;
+    color: #EEEBD0;
+}
+.a-link:hover{
+    background-color: rgba(0,0,0,0.2);
+}
+
+.img-size{
+    width: 75px;
+}
+
+.img-profile{
+    width: 350px;
+    border: 5px solid;
+}
+
+.img-display{
+    width: 100%;
+    border: 3px solid;
+}
+
+.card{
+    height: 100px;
+    padding: 10px;
+    background-color: black;
+    
+}
+
+.gold-colour{
+    color: #ECA72C;
+}
+
+.orange-colour{
+    color: #EE5622;
+}
+.navbar-custom {
+    background-color: none;
+    border-color: none;
+}
+
+.content-section-a {
+    padding-top: 120px;
+    padding-bottom: 20px;
+}
+
+.content-section-b {
+    padding: 20px 0;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
